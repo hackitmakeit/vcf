@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Patadia;Ajay;;;
+FN:Ajay Patadia
+ORG:Fortinet Technologies;
+TITLE:Systems Engineer - Major Accounts
+EMAIL;type=INTERNET;type=WORK;type=pref:apatadia@fortinet.com
+TEL;type=CELL;type=VOICE;type=pref:+1 (647) 821-2529
+ADR;type=WORK;type=pref:;;326 Moodie Drive;Nepean;Ontario;K2H 8G3;Canadaitem1.URL;type=pref:https://www.fortinet.com
+item1.X-ABLabel:_$!<HomePage>!$_
+URL;type=WORK:https://www.fortiguard.com
+URL;type=WORK:https://docs.fortinet.com
+URL;type=WORK:https://support.fortinet.com
+X-SOCIALPROFILE;type=twitter;https://twitter.com/fortinet
+X-SOCIALPROFILE;type=facebook;https://www.facebook.com/fortinet
+X-SOCIALPROFILE;type=linkedin;https://www.linkedin.com/company/fortinet
+NOTE:Please Reach out for any Cybersecurity Solutions. Fortinet TAC Canada: +1 613 670 8994; TAC Tollfree: +1 844 226 0801
+END:VCARD

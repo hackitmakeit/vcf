@@ -1,0 +1,20 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Dsouza;Elvis;;;
+FN:Elvis Dsouza
+ORG:Fortinet Technologies;
+TITLE:Regional Accounts Manager
+EMAIL;type=INTERNET;type=WORK;type=pref:douzae@fortinet.com
+TEL;type=CELL;type=VOICE;type=pref:+1 (365) 880-0048
+ADR;type=WORK;type=pref:;;326 Moodie Drive;Nepean;Ontario;K2H 8G3;Canada
+item1.URL;type=pref:https://www.fortinet.com
+item1.X-ABLabel:_$!<HomePage>!$_
+URL;type=WORK:https://www.fortiguard.com
+URL;type=WORK:https://docs.fortinet.com
+URL;type=WORK:https://support.fortinet.com
+X-SOCIALPROFILE;type=twitter;https://twitter.com/fortinet
+X-SOCIALPROFILE;type=facebook;https://www.facebook.com/fortinet
+X-SOCIALPROFILE;type=linkedin;https://www.linkedin.com/company/fortinet
+X-SOCIALPROFILE;type=linkedin;https://www.linkedin.com/in/elvismdsouza/
+NOTE:Please Reach out for any Cybersecurity Solutions. Fortinet TAC Canada: +1 613 670 8994; TAC Tollfree: +1 844 226 0801
+END:VCARD
